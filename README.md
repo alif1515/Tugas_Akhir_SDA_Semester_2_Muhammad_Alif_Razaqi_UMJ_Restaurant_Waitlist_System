@@ -2,8 +2,8 @@
 ## TUGAS AKHIR SEMESTER 2 STRUKTUR DATA DAN ANALISA
 Dosen : MIRZA SUTRISNO, S.SI., M.KOM
 
-## YOUTUBE LINK https://youtu.be/VsQ9DdqIiCU
-## ACADEMIA PDF :
+## YOUTUBE LINK : https://youtu.be/VsQ9DdqIiCU
+## ACADEMIA PDF : https://www.academia.edu/130334612/Restaurant_Waitlist_Management_Using_Queue_C_Language_
 ## MEMBER :
 - 24040700107 M.Daffa
 - 24040700110 Muhammad Alif Razaqi
